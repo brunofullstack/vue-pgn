@@ -68,5 +68,6 @@ export default {
 <style>
 #pgn {
   display: flex;
+  flex-direction: row;
 }
 </style>
