@@ -3,8 +3,8 @@
   "description": "A Vue.js component for browsing chess games in pgn format",
   "version": "0.4.0",
   "author": {
-    "name": "deemaagog",
-    "email": "deemaagog@gmail.com"
+    "name": "brunofullstack",
+    "email": "brunofullstack@gmail.com"
   },
   "keywords": [
     "vue",
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deemaagog/vue-pgn.git"
+    "url": "git+https://github.com/brunofullstack/vue-pgn.git"
   },
   "bugs": {
-    "url": "https://github.com/deemaagog/vue-pgn/issues"
+    "url": "https://github.com/brunofullstack/vue-pgn/issues"
   },
-  "homepage": "https://github.com/deemaagog/vue-pgn#readme",
+  "homepage": "https://github.com/brunofullstack/vue-pgn#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "^7.1.1",
