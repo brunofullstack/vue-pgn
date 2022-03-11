@@ -5,7 +5,7 @@
           class="square" 
           v-for="c in 8" 
           :key=c  
-          v-bind:class="(c & 1 && r & 1) || ( !(c & 1) && !(r & 1))? 'black' : 'white'" >
+          v-bind:class="(c & 1 && r & 1) || ( !(c & 1) && !(r & 1))? 'black-chess-pgn' : 'white-chess-pgn'" >
         </div>
       </div>
       <template v-for="(row, rInd) in position">
