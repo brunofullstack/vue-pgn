@@ -64,11 +64,11 @@ export default {
   height: 12.5%;
 }
 
-.white {
+.white-chess-pgn {
   background-color: rgb(165, 126, 100);
 }
 
-.black {
+.black-chess-pgn {
   background-color: rgb(224, 204, 176);
 }
 
